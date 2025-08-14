@@ -41,9 +41,8 @@
 ![COBOL](https://img.shields.io/badge/-COBOL-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LeonardoSilvaPY}/count.svg" /></p> 
-<br></div>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LeonardoSilvaPY&left_color=7308EF&right_color=5E07B8&style=for-the-badge&label=VISITAS" width="30%">
+</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=footer"/>
