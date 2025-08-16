@@ -19,8 +19,8 @@
 
 ## 🚀 Projetos em Destaque
 - [AssistenteGABI](https://github.com/LeonardoSilvaPy/AssistenteGABI) – Chatbot para agendamento no Telegram  
-- [Gerenciador de Tarefas](https://github.com/LeonardoSilvaPy/TaskManager) – Aplicativo em Python com Kivy  
-- [Amigo Secreto](https://github.com/LeonardoSilvaPy/challenge-amigo-secreto_pt-main) – Projeto web para organizar sorteio de amigos secretos  
+- [Gerenciador de Tarefas](https://github.com/LeonardoSilvaPy/Tasks) – Aplicativo em Python 
+- [Amigo Secreto](https://github.com/LeonardoSilvaPy/amigo-secreto/tree/master) – Projeto web para organizar sorteio de amigos secretos  
 
 ---
 
