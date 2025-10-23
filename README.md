@@ -19,7 +19,7 @@
 
 ## 🚀 Projetos em Destaque
 - [AssistenteGABI](https://github.com/LeonardoSilvaPy/AssistenteGABI) – A GabiTelecras é uma assistente digital integrada ao SUAS (Sistema Único de Assistência Social), focada em facilitar o acesso a informações essenciais sobre os serviços sociais disponibilizados pelo CRAS, promovendo maior agilidade e acessibilidade.  
-- [Gerenciador de Tarefas](https://github.com/LeonardoSilvaPy/Tasks) – Aplicativo em Python 
+- [Gerenciador de Tarefas](https://github.com/LeonardoSilvaPy/Tasks) – Task Manager é um aplicativo de gerenciamento de tarefas construído com Python e CustomTkinter. Organize suas tarefas de forma eficiente com uma interface intuitiva, gráficos de desempenho e relatórios em texto. 
 - [Amigo Secreto](https://github.com/LeonardoSilvaPy/amigo-secreto/tree/master) – Projeto web para organizar sorteio de amigos secretos  
 
 ---
