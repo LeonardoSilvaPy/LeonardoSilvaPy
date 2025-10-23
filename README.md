@@ -18,7 +18,7 @@
 ---
 
 ## 🚀 Projetos em Destaque
-- [AssistenteGABI](https://github.com/LeonardoSilvaPy/AssistenteGABI) – Chatbot para agendamento no Telegram  
+- [AssistenteGABI](https://github.com/LeonardoSilvaPy/AssistenteGABI) – A GabiTelecras é uma assistente digital integrada ao SUAS (Sistema Único de Assistência Social), focada em facilitar o acesso a informações essenciais sobre os serviços sociais disponibilizados pelo CRAS, promovendo maior agilidade e acessibilidade.  
 - [Gerenciador de Tarefas](https://github.com/LeonardoSilvaPy/Tasks) – Aplicativo em Python 
 - [Amigo Secreto](https://github.com/LeonardoSilvaPy/amigo-secreto/tree/master) – Projeto web para organizar sorteio de amigos secretos  
 
